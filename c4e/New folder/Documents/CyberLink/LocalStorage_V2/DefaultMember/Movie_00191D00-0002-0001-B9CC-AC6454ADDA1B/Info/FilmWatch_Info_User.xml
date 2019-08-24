@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Info Version="" ClientVersion="2.0" FingerPrint="00191D00-0002-0001-B9CC-AC6454ADDA1B" QueryLanguage="0x0409">
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2015/09/06 16:05:51" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="0402AF8E-D09E-4CF2-AA75-15800082EF90" UpdateTime="2015/09/06 09:05:51"/>
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2015/11/28 16:44:20" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="3D9F4904-CAF1-4020-91E0-6A0BEF4F1970" UpdateTime="2015/11/28 09:44:20"/>
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2015/11/28 20:55:59" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="DBF95FFE-A905-48C5-AE7C-10C9D35B3779" UpdateTime="2015/11/28 13:55:59"/>
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2019/01/13 22:21:23" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="F4BF01DE-C8A3-4F99-AF63-4B4AF22985BA" UpdateTime="2019/01/13 15:21:23"/>
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2019/01/13 22:40:26" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="16673295-632E-4DAF-BD9D-9C89978E9B64" UpdateTime="2019/01/13 15:40:26"/>
-	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2019/01/13 22:50:57" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="285DE7CA-E5F8-4ACE-A11F-2C382922BC88" UpdateTime="2019/01/13 15:50:57"/>
-</Info>
